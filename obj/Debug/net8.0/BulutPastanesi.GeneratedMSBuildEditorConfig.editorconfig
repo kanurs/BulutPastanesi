@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BulutPastanesi
+build_property.RootNamespace = BulutPastanesi
+build_property.ProjectDir = C:\Users\semih\OneDrive\Masaüstü\webproje\BulutPastanesi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\semih\OneDrive\Masaüstü\webproje\BulutPastanesi
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Kategoriler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlsZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Kategoriler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlsZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Kategoriler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlsZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Kategoriler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlsZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Kategoriler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlsZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/SiteAyarlari/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0ZUF5YXJsYXJpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/SiteAyarlari/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0ZUF5YXJsYXJpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/SiteAyarlari/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0ZUF5YXJsYXJpXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/SiteAyarlari/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0ZUF5YXJsYXJpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/SiteAyarlari/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0ZUF5YXJsYXJpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Urunler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Urunler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Urunler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Urunler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Urunler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1bmxlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/semih/OneDrive/Masaüstü/webproje/BulutPastanesi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hxbremvcbd

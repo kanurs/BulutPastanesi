@@ -1,0 +1,74 @@
+﻿@model BulutPastanesi.Models.SiteAyarlari
+
+@{
+    ViewData["Title"] = "Hakkımızda";
+}
+
+<div class="container py-5">
+    <div class="text-center mb-5">
+        <h1 class="display-4 fw-bold" style="color:var(--gold-renk)">
+            @(Model?.FirmaAdi ?? "Bulut Pastanesi")
+        </h1>
+        <p class="lead text-muted">Lezzetin ve mutluluğun adresi.</p>
+    </div>
+
+    <div class="row g-5">
+        <div class="col-md-7">
+            <h3 class="mb-3" style="color:#5a4a42;">Biz Kimiz?</h3>
+            <div class="p-4 bg-light rounded shadow-sm" style="min-height: 300px; line-height: 1.8;">
+                @if (Model != null && !string.IsNullOrEmpty(Model.Hakkimizda))
+                {
+                    @Html.Raw(Model.Hakkimizda.Replace("\n", "<br>"))
+                }
+                else
+                {
+                    <p class="text-muted">Henüz hakkımızda yazısı girilmedi. Lütfen yönetim panelinden ekleyiniz.</p>
+                }
+            </div>
+        </div>
+
+        <div class="col-md-5">
+            <h3 class="mb-3" style="color:#5a4a42;">İletişim Bilgileri</h3>
+            <div class="card border-0 shadow-lg" style="background-color: var(--ana-renk);">
+                <div class="card-body p-4">
+
+                    <div class="d-flex align-items-start mb-4">
+                        <span class="fs-4 me-3">📍</span>
+                        <div>
+                            <h5 class="fw-bold mb-1">Adresimiz</h5>
+                            <p class="mb-0 text-muted">@(Model?.Adres ?? "Adres bilgisi girilmedi.")</p>
+                        </div>
+                    </div>
+
+                    <div class="d-flex align-items-start mb-4">
+                        <span class="fs-4 me-3">📞</span>
+                        <div>
+                            <h5 class="fw-bold mb-1">Telefon</h5>
+                            <p class="mb-0 text-muted">
+                                <a href="tel:@(Model?.Telefon)" class="text-decoration-none text-dark">
+                                    @(Model?.Telefon ?? "Telefon girilmedi.")
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="d-flex align-items-start mb-4">
+                        <span class="fs-4 me-3">📧</span>
+                        <div>
+                            <h5 class="fw-bold mb-1">E-Posta</h5>
+                            <p class="mb-0 text-muted">@(Model?.Email ?? "Email girilmedi.")</p>
+                        </div>
+                    </div>
+
+                    @if (Model != null && !string.IsNullOrEmpty(Model.Telefon))
+                    {
+                        <a href="https://wa.me/@Model.Telefon" target="_blank" class="btn btn-success w-100 py-2 rounded-pill fw-bold">
+                            WhatsApp'tan Yazın
+                        </a>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

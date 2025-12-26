@@ -1,0 +1,74 @@
+:root {
+    --ana-renk: #fcfbf4; /* Krem Beyaz - Pastane zemini */
+    --yazi-renk: #5a4a42; /* Koyu Kahve yazý */
+    --gold-renk: #d4af37; /* Altýn rengi detaylar */
+    --kirmizi-renk: #d9534f; /* Çilek kýrmýzýsý */
+    --beyaz: #ffffff;
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    background-color: var(--ana-renk);
+    color: var(--yazi-renk);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 60px;
+}
+
+/* Üst Menü (Navbar) */
+.navbar {
+    background-color: var(--beyaz) !important;
+    border-bottom: 3px solid var(--gold-renk);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.navbar-brand {
+    color: var(--gold-renk) !important;
+    font-weight: bold;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.nav-link {
+    color: #555 !important;
+    font-weight: 500;
+}
+
+    .nav-link:hover {
+        color: var(--gold-renk) !important;
+    }
+
+/* Butonlar */
+.btn-primary {
+    background-color: var(--gold-renk);
+    border-color: var(--gold-renk);
+    color: #fff;
+}
+
+    .btn-primary:hover {
+        background-color: #bfa130; /* Daha koyu altýn */
+        border-color: #bfa130;
+    }
+
+/* Tablolar ve Baþlýklar */
+h1, h2, h3 {
+    color: var(--gold-renk);
+}
+
+a {
+    color: var(--gold-renk);
+    text-decoration: none;
+}
+
+    a:hover {
+        color: var(--kirmizi-renk);
+    }

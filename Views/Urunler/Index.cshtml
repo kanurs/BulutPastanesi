@@ -1,0 +1,57 @@
+﻿@model IEnumerable<BulutPastanesi.Models.Urun>
+
+@{
+    ViewData["Title"] = "Ürünler";
+}
+
+<h1>Ürünler</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Yeni Ürün Ekle</a>
+</p>
+<table class="table table-hover align-middle">
+    <thead>
+        <tr>
+            <th>Resim</th>
+            <th>@Html.DisplayNameFor(model => model.Ad)</th>
+            <th>@Html.DisplayNameFor(model => model.Fiyat)</th>
+            <th>@Html.DisplayNameFor(model => model.Kategori)</th>
+            <th>@Html.DisplayNameFor(model => model.VitrinDurumu)</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@(string.IsNullOrEmpty(item.ResimUrl) ? "https://placehold.co/100?text=Yok" : item.ResimUrl)"
+                         width="50" height="50"
+                         style="object-fit: cover; border-radius: 5px; border: 1px solid #ccc;" />
+                </td>
+
+                <td class="fw-bold">@Html.DisplayFor(modelItem => item.Ad)</td>
+                <td>@Html.DisplayFor(modelItem => item.Fiyat) ₺</td>
+                <td>
+                    @(item.Kategori?.Ad)
+                </td>
+                <td>
+                    @if (item.VitrinDurumu)
+                    {
+                        <span class="badge bg-success">Vitrinde</span>
+                    }
+                    else
+                    {
+
+                        <span class="badge bg-secondary">Gizli</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Düzenle</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Detay</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Yönetici Girişi";
+    Layout = null; /* Giriş sayfasında menüler görünmesin diye bunu ekledik */
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Yönetici Girişi - Bulut Pastanesi</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <style>
+        body {
+            background-color: #fcfbf4;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .card {
+            border: none;
+            border-top: 5px solid #d4af37;
+        }
+
+        .btn-primary {
+            background-color: #d4af37;
+            border-color: #d4af37;
+        }
+
+            .btn-primary:hover {
+                background-color: #bfa130;
+                border-color: #bfa130;
+            }
+    </style>
+</head>
+<body class="d-flex justify-content-center align-items-center" style="height: 100vh;">
+
+    <div class="card shadow p-5" style="width: 400px;">
+        <div class="text-center mb-4">
+            <h3 style="color:#5a4a42; font-weight:bold;">Yönetici Girişi</h3>
+            <p class="text-muted">Bulut Pastanesi Admin Paneli</p>
+        </div>
+
+        @if (ViewBag.Hata != null)
+        {
+            <div class="alert alert-danger text-center">@ViewBag.Hata</div>
+        }
+
+        <form asp-action="Login" method="post">
+            <div class="mb-3">
+                <label class="form-label">Kullanıcı Adı</label>
+                <input type="text" name="k" class="form-control" placeholder="admin" required />
+            </div>
+            <div class="mb-4">
+                <label class="form-label">Şifre</label>
+                <input type="password" name="s" class="form-control" placeholder="****" required />
+            </div>
+            <button type="submit" class="btn btn-primary w-100 py-2 fw-bold text-white">Giriş Yap</button>
+        </form>
+
+        <div class="text-center mt-4">
+            <a href="/" class="text-muted text-decoration-none small">← Siteye Geri Dön</a>
+        </div>
+    </div>
+
+</body>
+</html>
