@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iPx/kYv9bMQ=",
+  "dgSpecHash": "oAz9yWyvxLw=",
   "success": true,
   "projectFilePath": "C:\\Users\\semih\\OneDrive\\Masaüstü\\webproje\\BulutPastanesi\\BulutPastanesi.csproj",
   "expectedPackageFiles": [
@@ -114,6 +114,8 @@
     "C:\\Users\\semih\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\8.0.22\\microsoft.visualstudio.web.codegenerators.mvc.8.0.22.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\mono.texttemplating\\2.3.1\\mono.texttemplating.2.3.1.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\semih\\.nuget\\packages\\npgsql\\8.0.6\\npgsql.8.0.6.nupkg.sha512",
+    "C:\\Users\\semih\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.11\\npgsql.entityframeworkcore.postgresql.8.0.11.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\nuget.common\\6.11.0\\nuget.common.6.11.0.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\nuget.configuration\\6.11.0\\nuget.configuration.6.11.0.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\nuget.dependencyresolver.core\\6.11.0\\nuget.dependencyresolver.core.6.11.0.nupkg.sha512",

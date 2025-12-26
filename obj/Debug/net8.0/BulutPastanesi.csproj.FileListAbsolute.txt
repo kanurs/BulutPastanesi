@@ -58,6 +58,8 @@ C:\Users\semih\OneDrive\Masaüstü\webproje\BulutPastanesi\bin\Debug\net8.0\Micr
 C:\Users\semih\OneDrive\Masaüstü\webproje\BulutPastanesi\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\semih\OneDrive\Masaüstü\webproje\BulutPastanesi\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\semih\OneDrive\Masaüstü\webproje\BulutPastanesi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\semih\OneDrive\Masaüstü\webproje\BulutPastanesi\bin\Debug\net8.0\Npgsql.dll
+C:\Users\semih\OneDrive\Masaüstü\webproje\BulutPastanesi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\semih\OneDrive\Masaüstü\webproje\BulutPastanesi\bin\Debug\net8.0\NuGet.Common.dll
 C:\Users\semih\OneDrive\Masaüstü\webproje\BulutPastanesi\bin\Debug\net8.0\NuGet.Configuration.dll
 C:\Users\semih\OneDrive\Masaüstü\webproje\BulutPastanesi\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll

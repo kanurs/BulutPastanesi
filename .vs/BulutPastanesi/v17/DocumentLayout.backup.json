@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Migrations\\20251226032502_PostgreGecisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251226032502_PostgreGecisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|c:\\users\\semih\\onedrive\\masa\u00FCst\u00FC\\webproje\\bulutpastanesi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|c:\\users\\semih\\onedrive\\masa\u00FCst\u00FC\\webproje\\bulutpastanesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|c:\\users\\semih\\onedrive\\masa\u00FCst\u00FC\\webproje\\bulutpastanesi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|c:\\users\\semih\\onedrive\\masa\u00FCst\u00FC\\webproje\\bulutpastanesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|c:\\users\\semih\\onedrive\\masa\u00FCst\u00FC\\webproje\\bulutpastanesi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -77,26 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|c:\\users\\semih\\onedrive\\masa\u00FCst\u00FC\\webproje\\bulutpastanesi\\bulutpastanesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:bulutpastanesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|c:\\users\\semih\\onedrive\\masa\u00FCst\u00FC\\webproje\\bulutpastanesi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|c:\\users\\semih\\onedrive\\masa\u00FCst\u00FC\\webproje\\bulutpastanesi\\migrations\\20251225231652_yonetimguncellemesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:migrations\\20251225231652_yonetimguncellemesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|c:\\users\\semih\\onedrive\\masa\u00FCst\u00FC\\webproje\\bulutpastanesi\\migrations\\20251225224714_altyapiguncellemesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:migrations\\20251225224714_altyapiguncellemesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|c:\\users\\semih\\onedrive\\masa\u00FCst\u00FC\\webproje\\bulutpastanesi\\migrations\\20251225221631_ilkkurulum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:migrations\\20251225221631_ilkkurulum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|c:\\users\\semih\\onedrive\\masa\u00FCst\u00FC\\webproje\\bulutpastanesi\\migrations\\20251226001904_vitrinekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C67ACE7-E752-4920-84F9-D92F4097617A}|BulutPastanesi.csproj|solutionrelative:migrations\\20251226001904_vitrinekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -123,6 +111,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20251226032502_PostgreGecisi.cs",
+              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Migrations\\20251226032502_PostgreGecisi.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251226032502_PostgreGecisi.cs",
+              "ToolTip": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Migrations\\20251226032502_PostgreGecisi.cs",
+              "RelativeToolTip": "Migrations\\20251226032502_PostgreGecisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T03:25:02.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T21:48:41.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T21:34:45.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -135,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -143,11 +170,12 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABoAAAAAAAAAAAAkwDkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-25T22:23:24.889Z"
+              "WhenOpened": "2025-12-25T22:23:24.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -155,11 +183,12 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-26T00:38:38.879Z"
+              "WhenOpened": "2025-12-26T00:38:38.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Views\\Urunler\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Urunler\\Index.cshtml",
@@ -167,11 +196,12 @@
               "RelativeToolTip": "Views\\Urunler\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-26T00:27:17.89Z"
+              "WhenOpened": "2025-12-26T00:27:17.89Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Views\\Urunler\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Urunler\\Details.cshtml",
@@ -179,11 +209,12 @@
               "RelativeToolTip": "Views\\Urunler\\Details.cshtml",
               "ViewState": "AgIAABkAAAAAAAAAAAAkwDUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-26T00:31:27.989Z"
+              "WhenOpened": "2025-12-26T00:31:27.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -191,11 +222,12 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T22:23:01.488Z"
+              "WhenOpened": "2025-12-25T22:23:01.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Views\\Urunler\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Urunler\\Delete.cshtml",
@@ -203,11 +235,12 @@
               "RelativeToolTip": "Views\\Urunler\\Delete.cshtml",
               "ViewState": "AgIAABkAAAAAAAAAAAAkwDgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-26T00:30:58.548Z"
+              "WhenOpened": "2025-12-26T00:30:58.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Kategori.cs",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Models\\Kategori.cs",
               "RelativeDocumentMoniker": "Models\\Kategori.cs",
@@ -215,11 +248,12 @@
               "RelativeToolTip": "Models\\Kategori.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T22:43:53.91Z"
+              "WhenOpened": "2025-12-25T22:43:53.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Urun.cs",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Models\\Urun.cs",
               "RelativeDocumentMoniker": "Models\\Urun.cs",
@@ -227,11 +261,12 @@
               "RelativeToolTip": "Models\\Urun.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAwwCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T21:18:15.063Z"
+              "WhenOpened": "2025-12-25T21:18:15.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "SiteAyarlari.cs",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Models\\SiteAyarlari.cs",
               "RelativeDocumentMoniker": "Models\\SiteAyarlari.cs",
@@ -239,23 +274,12 @@
               "RelativeToolTip": "Models\\SiteAyarlari.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T22:44:28.338Z"
+              "WhenOpened": "2025-12-25T22:44:28.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20251226001904_VitrinEkle.cs",
-              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Migrations\\20251226001904_VitrinEkle.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251226001904_VitrinEkle.cs",
-              "ToolTip": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Migrations\\20251226001904_VitrinEkle.cs",
-              "RelativeToolTip": "Migrations\\20251226001904_VitrinEkle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T00:19:04.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "SiteAyarlariController.cs",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Controllers\\SiteAyarlariController.cs",
               "RelativeDocumentMoniker": "Controllers\\SiteAyarlariController.cs",
@@ -263,11 +287,12 @@
               "RelativeToolTip": "Controllers\\SiteAyarlariController.cs",
               "ViewState": "AgIAAJQAAAAAAAAAAAAqwLAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T23:19:31.37Z"
+              "WhenOpened": "2025-12-25T23:19:31.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "KategorilerController.cs",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Controllers\\KategorilerController.cs",
               "RelativeDocumentMoniker": "Controllers\\KategorilerController.cs",
@@ -275,23 +300,25 @@
               "RelativeToolTip": "Controllers\\KategorilerController.cs",
               "ViewState": "AgIAAJcAAAAAAAAAAAAqwLAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T23:18:39.161Z"
+              "WhenOpened": "2025-12-25T23:18:39.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "UrunlerController.cs",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Controllers\\UrunlerController.cs",
               "RelativeDocumentMoniker": "Controllers\\UrunlerController.cs",
               "ToolTip": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Controllers\\UrunlerController.cs",
               "RelativeToolTip": "Controllers\\UrunlerController.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAAALcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAABQwLcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T23:20:22.806Z"
+              "WhenOpened": "2025-12-25T23:20:22.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -299,11 +326,12 @@
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AgIAACYAAAAAAAAAAAAYwEAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-25T23:29:59.239Z"
+              "WhenOpened": "2025-12-25T23:29:59.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -311,23 +339,12 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T23:27:41.432Z"
+              "WhenOpened": "2025-12-25T23:27:41.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20251225231652_YonetimGuncellemesi.cs",
-              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Migrations\\20251225231652_YonetimGuncellemesi.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251225231652_YonetimGuncellemesi.cs",
-              "ToolTip": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Migrations\\20251225231652_YonetimGuncellemesi.cs",
-              "RelativeToolTip": "Migrations\\20251225231652_YonetimGuncellemesi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T23:16:52.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -335,35 +352,12 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T21:47:23.706Z"
+              "WhenOpened": "2025-12-25T21:47:23.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T21:48:41.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20251225224714_AltyapiGuncellemesi.cs",
-              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Migrations\\20251225224714_AltyapiGuncellemesi.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251225224714_AltyapiGuncellemesi.cs",
-              "ToolTip": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Migrations\\20251225224714_AltyapiGuncellemesi.cs",
-              "RelativeToolTip": "Migrations\\20251225224714_AltyapiGuncellemesi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T22:47:15.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -371,43 +365,21 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAADMAAAAAAAAAAAAUwEkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-25T22:17:41.73Z"
+              "WhenOpened": "2025-12-25T22:17:41.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20251225221631_IlkKurulum.cs",
-              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Migrations\\20251225221631_IlkKurulum.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251225221631_IlkKurulum.cs",
-              "ToolTip": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\Migrations\\20251225221631_IlkKurulum.cs",
-              "RelativeToolTip": "Migrations\\20251225221631_IlkKurulum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T22:16:31.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "BulutPastanesi.csproj",
               "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\BulutPastanesi.csproj",
               "RelativeDocumentMoniker": "BulutPastanesi.csproj",
               "ToolTip": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\BulutPastanesi.csproj",
               "RelativeToolTip": "BulutPastanesi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-25T22:11:29.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\semih\\OneDrive\\Masa\u00FCst\u00FC\\webproje\\BulutPastanesi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-25T21:34:45.816Z"
+              "WhenOpened": "2025-12-25T22:11:29.981Z",
+              "EditorCaption": ""
             }
           ]
         }

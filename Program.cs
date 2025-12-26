@@ -6,12 +6,19 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// Oturum (Session) servisini ekle (Giriş yaparken lazım olacak)
+// Oturum (Session) servisini ekle
 builder.Services.AddSession();
 
-// Veritabanı bağlantısı (ApplicationDbContext kullanacak)
+// --- DEĞİŞİKLİK BURADA BAŞLIYOR ---
+// Eski SQL Server kodunu kaldırdık.
+// Yerine Render.com uyumlu PostgreSQL kodunu ekledik:
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(connectionString));
+
+// --- DEĞİŞİKLİK BİTTİ ---
 
 var app = builder.Build();
 
@@ -27,7 +34,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-// Oturum ve Yetkilendirme sıralaması önemlidir
+// Oturum ve Yetkilendirme sıralaması
 app.UseSession();
 app.UseAuthorization();
 
