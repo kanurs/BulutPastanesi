@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulutPastanesi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51da3ae36598c22124a3acbd8cfc7418b62ad19d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a693c935a2752b380734f67e79695274541fcae5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulutPastanesi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulutPastanesi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
